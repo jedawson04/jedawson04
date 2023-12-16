@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jedawson04
+- 👋 Hi, I’m @jedawson04 I just finished a course on DS and will be taking one on Systems
 - 👀 I’m interested in Algorithms, Data Science in general, and Machine Learning.
 - 🌱 I’m currently learning about NLP models!
 - 💞️ I’m looking to collaborate on anything! I'm always willing to work together and learn more!
